@@ -1,4 +1,4 @@
-checkio-task-non-unique-elements
+checkio-task-i-dont-like-monday
 =====================
 
-Checkio task "Non Unique Elements"
+Checkio task "I don't like Mondays"
